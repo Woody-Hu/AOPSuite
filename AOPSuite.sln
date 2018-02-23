@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOPSuite", "AOPSuite\AOPSuite.csproj", "{4EE418FC-504A-475C-923E-89BA8174B572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{FA309764-4CA4-4378-AC0C-13F33F1F7BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE418FC-504A-475C-923E-89BA8174B572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE418FC-504A-475C-923E-89BA8174B572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE418FC-504A-475C-923E-89BA8174B572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE418FC-504A-475C-923E-89BA8174B572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA309764-4CA4-4378-AC0C-13F33F1F7BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA309764-4CA4-4378-AC0C-13F33F1F7BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA309764-4CA4-4378-AC0C-13F33F1F7BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA309764-4CA4-4378-AC0C-13F33F1F7BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
